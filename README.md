@@ -89,16 +89,6 @@ Password-Strength-Analyzer/
 ├── README.md              # Project documentation
 ```
 
----
-
-## 🙋‍♂️ Author
-
-Vinayak  
-Cybersecurity & Python Enthusiast  
-📧 [Your Email or GitHub Link]
-
----
-
 ## 🛡️ License
 
 MIT License. Feel free to use, modify, and share.
